@@ -1,10 +1,9 @@
 # Personal Portfolio 👩‍💻
 My simple portfolio
 
-<!-- How to play -->
+<!-- How to View the site -->
 ## Instructions 👨‍🏫 ##
-visit: https://mohammedabed.netlify.app/
-
+[Link to site](Ayman.Codes)
 <!-- Tools -->
 ## Tools 🛠 ##
 
@@ -12,7 +11,6 @@ Made in JavaScript, HTML, and CSS using Visual Studio
 
 <!-- Creds -->
 ## Notes 📝 ##
-
 
 Used Bedimcode CSS blank project template https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ
 
