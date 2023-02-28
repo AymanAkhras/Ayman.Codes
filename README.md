@@ -3,7 +3,7 @@ My simple portfolio
 
 <!-- How to View the site -->
 ## Instructions 👨‍🏫 ##
-[Link to site](AymanAkhras.Codes)
+[Link to site](https://aymanakhras.codes/)
 <!-- Tools -->
 ## Tools 🛠 ##
 
